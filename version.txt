@@ -2,3 +2,7 @@ VERSION = 1.0.1
 DOWNLOAD_UPDATE = "https://www.google.com"
 USE_TEXT_FILE = True
 VERSION_TEXT_URL = f"https://github.com/ams1ams2/Nuwa-Labling-check-update/blob/main/version.txt"
+CHANGES = """
+1.رفع الدقة
+2تحسين الأداء العام
+"""
